@@ -1,16 +1,13 @@
-## Hi there 👋
+# Muhammad Usama Awan
 
-<!--
-**Awanjee/Awanjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Flutter & .NET Developer | AI Integration | Open to Remote
 
-Here are some ideas to get you started:
+## Tech Stack
+Flutter · .NET · Python · LangChain · FastAPI · AWS · MariaDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+- AI-powered sales assistant (Flutter + LangChain + RAG)
+- Looking for remote Flutter/.NET opportunities
+
+## Experience
+3 years @ Compare The Market, Brisbane Australia
